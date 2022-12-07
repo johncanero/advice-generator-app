@@ -1,11 +1,13 @@
-import Head from 'next/head'
-import Image from 'next/image'
+import React from "react";
+import Hero from "../sections/Hero";
+
 
 
 export default function Home() {
   return (
     <div>
-      <h1 className=' text-blue-500 text-3xl font-bold text-center'>Hello World</h1>
+      {/* Main Content */}
+      <Hero />
     </div>
   )
 }

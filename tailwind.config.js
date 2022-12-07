@@ -13,7 +13,12 @@ module.exports = {
       lg: '976px',
       xl: '1440px',
     },
-    extend: {},
+    extend: {
+      colors: {
+        'custom-green': '#6CD5B3',
+      }
+
+    },
     fontFamily: {
       Poppins: ['Poppins', 'sans-serif'],
     },
