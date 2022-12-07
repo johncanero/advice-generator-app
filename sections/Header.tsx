@@ -60,7 +60,7 @@ const Header = () => {
 
   return (
     <div>
-      <div className="hidden md:block">
+      <div className="hidden mx-4 md:block">
         <header className="flex items-center justify-between h-20 mt-3">
           <div>
             <Link rel="noopener noreferrer" href="/">

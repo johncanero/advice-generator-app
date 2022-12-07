@@ -8,10 +8,6 @@
         @apply px-4 mx-auto sm:max-w-sm md:max-w-3xl lg:max-w-full;
         @apply dark:bg-neutral-900 dark:text-gray-100 bg-gray-100 text-gray-900
     }
-
-    .highlight:before {
-      @apply dark:bg-zinc-800
-    }
 }
 
 
