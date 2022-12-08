@@ -12,7 +12,7 @@ const Hero = () => {
             ADVICE # 1
           </p>
 
-          <h2 className="mx-6 my-8 text-2xl font-medium">
+          <h2 className="mx-6 my-8 text-xl font-medium md:text-2xl">
             "Lorem ipsum dolor sit amet consectetur adipisicing elit. Enim
             ducimus pariatur dolor accusantium deserunt"
           </h2>
