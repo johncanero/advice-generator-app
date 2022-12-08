@@ -34,15 +34,16 @@ const Hero = () => {
           </h2>
 
           {/* Horizontal Line */}
-          <div className="flex mt-8">
-            <hr className="h-px mx-auto mt-4 bg-gray-700 border-0 w-28 md:w-32 lg:w-40 dark:bg-neutral-700" />
+          <div className="flex mt-8 justify-center">
             <ImQuotesRight size={28} />
-            <hr className="h-px mx-auto mt-4 bg-gray-700 border-0 w-28 md:w-32 lg:w-40 dark:bg-neutral-700" />
           </div>
         </div>
         {/* Button */}
         <div>
-          <button className="relative z-50 px-2 py-2 mt-5 font-bold text-black bg-orange-400 rounded hover:bg-orange-500" onClick={fetchAdvice}>
+          <button
+            className="relative z-50 px-2 py-2 mt-5 font-bold text-black bg-orange-400 rounded hover:bg-orange-500"
+            onClick={fetchAdvice}
+          >
             <GiPerspectiveDiceSixFacesFour size={48} />
           </button>
         </div>
