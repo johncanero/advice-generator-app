@@ -1,10 +1,4 @@
-Notes: 
-
-// Install Next Js with Typescript
-// Install Tailwind CSS
-// Follow the Header, Hero and Footer Format
-
-// Understand and Examine the Design
+[https://advice-generator-app-by-johncanero.vercel.app/]
 
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
