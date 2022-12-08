@@ -61,7 +61,7 @@ const Header = () => {
   return (
     <div>
       <div className="mx-2 md:mx-4 lg:mx-5 md:block">
-        <header className="flex items-center justify-between h-20 mt-3">
+        <header className="flex items-center justify-between h-20 mt-1 md:mt-3">
           <div>
             <Link rel="noopener noreferrer" href="/">
               <Image
