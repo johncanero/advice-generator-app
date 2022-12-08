@@ -1,6 +1,7 @@
 /* eslint-disable react/no-unescaped-entities */
 import React from "react";
 import { GiPerspectiveDiceSixFacesFour } from "@react-icons/all-files/gi/GiPerspectiveDiceSixFacesFour";
+import { ImQuotesRight } from "@react-icons/all-files/im/ImQuotesRight"
 
 const Hero = () => {
   return (
@@ -20,7 +21,7 @@ const Hero = () => {
           {/* Horizontal Line */}
           <div className="flex mt-8">
             <hr className="h-px mx-auto mt-4 bg-gray-700 border-0 w-28 md:w-32 lg:w-40 dark:bg-neutral-700" />
-            <p className="text-3xl">;;</p>
+            <ImQuotesRight size={28} />
             <hr className="h-px mx-auto mt-4 bg-gray-700 border-0 w-28 md:w-32 lg:w-40 dark:bg-neutral-700" />
           </div>
         </div>
