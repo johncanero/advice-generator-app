@@ -4,7 +4,7 @@ import { GiPerspectiveDiceSixFacesFour } from "@react-icons/all-files/gi/GiPersp
 
 const Hero = () => {
   return (
-    <div className="text-center mx-96 font-Roboto">
+    <div className="mt-12 text-center md:mx-32 lg:mx-96 font-Roboto">
       <div>
         {/* Card */}
         <div className="px-12 py-10 mx-auto border border-orange-400 rounded-lg dark:border-none bg-neutral-200 md:max-w-xl shadow-20 dark:bg-zinc-800">
@@ -19,9 +19,9 @@ const Hero = () => {
 
           {/* Horizontal Line */}
           <div className="flex mt-8">
-            <hr className="w-48 h-px mx-auto mt-4 bg-gray-700 border-0 dark:bg-neutral-700" />
+            <hr className="h-px mx-auto mt-4 bg-gray-700 border-0 md:w-32 lg:w-40 dark:bg-neutral-700" />
             <p className="text-3xl">;;</p>
-            <hr className="w-48 h-px mx-auto mt-4 bg-gray-700 border-0 dark:bg-neutral-700" />
+            <hr className="h-px mx-auto mt-4 bg-gray-700 border-0 md:w-32 lg:w-40 dark:bg-neutral-700" />
           </div>
         </div>
         {/* Button */}
