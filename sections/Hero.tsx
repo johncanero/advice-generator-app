@@ -30,7 +30,7 @@ const Hero = () => {
           </p>
 
           <h2 className="mx-6 text-xl font-medium my-7 md:text-2xl">
-            {text.advice}
+            Hello Wolrd
           </h2>
 
           {/* Horizontal Line */}
