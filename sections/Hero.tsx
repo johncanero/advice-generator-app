@@ -7,7 +7,7 @@ const Hero = () => {
     <div className="mx-2 mt-12 text-center md:mx-32 lg:mx-96 font-Roboto">
       <div>
         {/* Card */}
-        <div className="py-10 mx-auto rounded-lg shadow-xl md:px-12 dark:border-none bg-neutral-200 md:max-w-xl shadow-20 dark:bg-zinc-800">
+        <div className="py-10 mx-auto rounded-lg shadow-lg md:px-12 dark:border-none bg-neutral-200 md:max-w-xl shadow-20 dark:bg-zinc-800">
           <p className="text-sm font-bold tracking-widest text-orange-400 ">
             ADVICE # 1
           </p>
