@@ -35,9 +35,9 @@ const Hero = () => {
 
           {/* Horizontal Line */}
           <div className="flex mt-8">
-            <hr className="h-px mx-auto mt-4 bg-gray-700 border-0 w-28 md:w-32 lg:w-40 dark:bg-neutral-700" />
+            <hr className="h-px mx-auto mt-4 bg-gray-700 border-0 w-24 md:w-32 lg:w-40 dark:bg-neutral-700" />
             <ImQuotesRight size={28} />
-            <hr className="h-px mx-auto mt-4 bg-gray-700 border-0 w-28 md:w-32 lg:w-40 dark:bg-neutral-700" />
+            <hr className="h-px mx-auto mt-4 bg-gray-700 border-0 w-24 md:w-32 lg:w-40 dark:bg-neutral-700" />
           </div>
         </div>
         {/* Button */}
