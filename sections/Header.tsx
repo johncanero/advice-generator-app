@@ -65,7 +65,7 @@ const Header = () => {
           <div>
             <Link rel="noopener noreferrer" href="/">
               <Image
-                src="/images/lightbulb2.png"
+                src="/images/lightbulb3.png"
                 width={50}
                 height={45}
                 alt="aLogo"
