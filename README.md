@@ -22,7 +22,7 @@ how to interact with 3rd-party APIs. This challenge uses the Advice Slip API to
 generate random quotes of advice.
 
 Let's be inspired, motivated and bless ourselves with quotes that would help and
-improve our live for the better and for others.
+improve our life for the better and for others.
 
 </div>
 
