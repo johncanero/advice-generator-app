@@ -25,7 +25,7 @@ const Hero = () => {
       <div>
         {/* Card */}
         <div className="py-10 mx-auto rounded-lg shadow-lg md:px-12 dark:border-none bg-neutral-100 md:max-w-xl shadow-20 dark:bg-zinc-800">
-          <p className="text-sm font-bold tracking-widest dark:text-indigo-200 ">
+          <p className="text-sm font-bold tracking-widest text-indigo-500 dark:text-indigo-200 ">
             ADVICE #{text.id}
           </p>
 
