@@ -43,5 +43,5 @@ Desktop Responsive Dark
 Tablet Responsive | Light and Dark
 ![Tablet View - Advice Generator App](./public/responsive/architectureNewsWebsiteTablet.jpg) -->
 Mobile Responsive | Light and Dark
-![Mobile View - Advice Generator App](./public/responsive/adviceGeneratorAppMobile.jpg)
+![Mobile View - Advice Generator App](./public/responsive/adviceGeneratorAppLightDark.jpg)
 
