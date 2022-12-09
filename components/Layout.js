@@ -17,7 +17,7 @@ const Layout = ({ children }) => {
         <meta property="og:title" content="Advice Generator App: A Frontend Mentor Customized Challenge" />
         <meta property="og:description" content="Advice, Life, Lessons, Learnings, Value & Purpose" />
         {/* Flaticon */}
-        <link rel="shortcut icon" href="/images/lightbulb4.png" />
+        <link rel="shortcut icon" href="/images/lightbulb5.png" />
       </Head>
 
       {/* Header, Main & Footer */}

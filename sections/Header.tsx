@@ -22,7 +22,7 @@ const Header = () => {
     if (currentTheme === "light") {
       return (
         <Button
-          className="bg-indigo-400 text-neutral-900"
+          className="bg-cyan-400 text-neutral-900"
           onClick={() => setTheme("dark")}
         >
           <svg
@@ -38,7 +38,7 @@ const Header = () => {
     } else {
       return (
         <Button
-          className="text-neutral-900 dark:bg-indigo-400"
+          className="text-neutral-900 dark:bg-cyan-400"
           onClick={() => setTheme("light")}
         >
           <svg
@@ -65,7 +65,7 @@ const Header = () => {
           <div>
             <Link rel="noopener noreferrer" href="/">
               <Image
-                src="/images/lightbulb4.png"
+                src="/images/lightbulb5.png"
                 width={50}
                 height={45}
                 alt="aLogo"

@@ -9,7 +9,7 @@
 
 <div align="center">
   <a href="https://advice-generator-app-by-johncanero.vercel.app/" target="_blank">
-    <img alt="advice-generator-app" height="100" src="./public/images/lightbulb4.png"/>
+    <img alt="advice-generator-app" height="100" src="./public/images/lightbulb5.png"/>
   </a>
 </div>
 

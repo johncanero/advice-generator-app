@@ -25,7 +25,7 @@ const Hero = () => {
       <div>
         {/* Card */}
         <div className="py-10 mx-auto rounded-lg shadow-lg md:px-12 dark:border-none bg-neutral-100 md:max-w-xl shadow-20 dark:bg-zinc-800">
-          <p className="text-sm font-bold tracking-widest text-indigo-500 dark:text-indigo-200 ">
+          <p className="text-sm font-bold tracking-widest text-cyan-500 dark:text-cyan-200 ">
             ADVICE #{text.id}
           </p>
 
@@ -35,13 +35,13 @@ const Hero = () => {
 
           {/* Horizontal Line */}
           <div className="flex justify-center mt-8">
-            <ImQuotesRight size={28} className="dark:text-indigo-200" />
+            <ImQuotesRight size={28} className="dark:text-cyan-200" />
           </div>
         </div>
         {/* Button */}
         <div>
           <button
-            className="relative z-50 px-2 py-2 mt-5 font-bold text-black bg-indigo-300 rounded-md hover:bg-indigo-400 dark:bg-indigo-400 dark:hover:bg-indigo-500"
+            className="relative z-50 px-2 py-2 mt-5 font-bold text-black rounded-md bg-cyan-300 hover:bg-cyan-400 dark:bg-cyan-400 dark:hover:bg-cyan-500"
             onClick={fetchAdvice}
           >
             <GiPerspectiveDiceSixFacesFour size={48} />

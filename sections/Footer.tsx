@@ -4,7 +4,7 @@ const Footer = () => {
   return (
     // Hide in Mobile
     <footer className="py-4 text-center text-gray-500 md:block md:py-6">
-      <span className="mr-2 text-lg font-bold text-gray-900 dark:text-indigo-400">
+      <span className="mr-2 text-lg font-bold text-gray-900 dark:text-cyan-400">
         John Cañero
       </span>
       &copy; {new Date().getFullYear()} All Rights Reserved
