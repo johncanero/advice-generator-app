@@ -41,7 +41,7 @@ const Hero = () => {
         {/* Button */}
         <div>
           <button
-            className="relative z-50 px-2 py-2 mt-5 font-bold text-black rounded-md bg-cyan-300 hover:bg-cyan-400 dark:bg-cyan-400 dark:hover:bg-cyan-500"
+            className="relative z-50 px-2 py-2 mt-5 font-bold text-black rounded-md bg-cyan-300 hover:bg-cyan-400 "
             onClick={fetchAdvice}
           >
             <GiPerspectiveDiceSixFacesFour size={48} />
