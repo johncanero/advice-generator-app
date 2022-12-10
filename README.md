@@ -37,11 +37,11 @@ improve our life for the better and for others.
 🪟: [Desktop - Tablet - Mobile]
 
 Desktop Responsive Light
-<!-- ![Desktop View - Advice Generator App](./public/responsive/architectureNewsDesktop.png)
+![Desktop View - Advice Generator App](./public/responsive/adviceGeneratorAppDesktopLight.jpg.png)
 Desktop Responsive Dark
-![Desktop View - Advice Generator App](./public/responsive/architectureNewsWebsiteDesktopDark.jpg)
+![Desktop View - Advice Generator App](./public/responsive/adviceGeneratorAppDesktopDark.jpg)
 Tablet Responsive | Light and Dark
-![Tablet View - Advice Generator App](./public/responsive/architectureNewsWebsiteTablet.jpg) -->
+![Tablet View - Advice Generator App](./public/responsive/adviceGeneratorAppTablet.jpg)
 Mobile Responsive | Light and Dark
 ![Mobile View - Advice Generator App](./public/responsive/adviceGeneratorAppMobile.jpg)
 
