@@ -37,7 +37,7 @@ improve our life for the better and for others.
 🪟: [Desktop - Tablet - Mobile]
 
 Desktop Responsive Light
-![Desktop View - Advice Generator App](./public/responsive/adviceGeneratorAppDesktopLight.jpg.png)
+![Desktop View - Advice Generator App](./public/responsive/adviceGeneratorAppDesktopLight.jpg)
 Desktop Responsive Dark
 ![Desktop View - Advice Generator App](./public/responsive/adviceGeneratorAppDesktopDark.jpg)
 Tablet Responsive | Light and Dark
